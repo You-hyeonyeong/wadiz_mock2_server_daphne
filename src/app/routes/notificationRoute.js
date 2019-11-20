@@ -3,7 +3,6 @@ module.exports = function(app){
     const jwtMiddleware = require('../../../config/jwtMiddleware');
 
     app.route('/noti').post(notification.notification);
-   
-    //app.get('/profile/like', jwtMiddleware, user.getProfileMyLike);
+    app.get('/noti', jwtMiddleware, notification.getNotification);
 
 };
