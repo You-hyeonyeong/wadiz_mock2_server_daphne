@@ -1,6 +1,8 @@
 #WADIZ
 > 클론프로젝트 와디즈 서버 만들기
+
 ![img](https://github.com/You-hyeonyeong/wadiz_mock2_server_daphne/blob/master/wadiz.jpeg?raw=true)
+
 메이커가 만든 제품/서비스를 돌려주는 리워드형 크라우드펀딩 서비스
 
 ### Overview
