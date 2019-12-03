@@ -1,4 +1,4 @@
-#WADIZ
+# WADIZ
 > 클론프로젝트 와디즈 서버 만들기
 
 ![img](https://github.com/You-hyeonyeong/wadiz_mock2_server_daphne/blob/master/wadiz.jpeg?raw=true)
